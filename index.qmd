@@ -1,0 +1,25 @@
+---
+title: "Zhipei (Kim) Wang"
+about:
+  id: hero-heading
+  template: jolla
+  image: profile.png
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/kim-wang-a1046a193/
+    - icon: github
+      text: Github
+      href: https://github.com/zhipeiwang
+---
+
+
+:::{#hero-heading}
+
+Hi! I'm a research master's student in methodology and statistics at Utrecht University, with a special interest in Bayesian statistics and handling high-dimensional data. My research currently explores the use of shrinkage priors for high-dimensional regression to optimize variable selection accuracy and predictive performance.
+
+Outside of my academic life, I enjoy playing the violin, dancing and playing with pets.
+
+
+:::
+

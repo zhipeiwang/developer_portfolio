@@ -1,0 +1,19 @@
+---
+title: "CV"
+---
+
+# Education
+
+Utrecht University | Utrecht, The Netherlands \
+Research master in Methodology and Statistics | Sept 2023 - present
+
+The University of Sydney | Sydney, Australia \
+Bachelor of Commerce in Business analytics and Statistics | Aug 2019 - Dec 2022
+
+# Experience
+
+Nail apprentice | U·Mi Nails | Dec 2022 - Mar 2023
+
+WuXi Biologics | Data technology and analytics intern | Jul 2022 - Sep 2022
+
+Wisers Information Limited | Data scientist intern | Dec 2021 - March 2022
